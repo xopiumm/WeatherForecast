@@ -1,0 +1,10 @@
+{
+  "cities": [
+    "Saint Petersburg",
+    "Moscow",
+    "Yalta"
+  ],
+  "cities_amount": 3,
+  "frequency": 1000000,
+  "days_amount": 5
+}
